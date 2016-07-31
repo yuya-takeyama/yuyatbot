@@ -20,7 +20,8 @@
     "hubot-slack": "^4.0.1",
     "hubot-youtube": "^0.1.2",
     "hubot-sushiyuki": "0.0.2",
-    "hubot-dogeme": "1.0.0"
+    "hubot-dogeme": "1.0.0",
+    "hubot-cron": "0.1.0"
   },
   "engines": {
     "node": "0.10.x"
